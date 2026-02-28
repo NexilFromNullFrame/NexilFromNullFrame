@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NexilFromNullFrame&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=NexilFromNullFrame&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NexilFromNullFrame&icon=4&color=12)](https://visitcount.itsvg.in)
