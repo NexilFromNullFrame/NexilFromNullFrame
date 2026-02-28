@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on XLaunch, My Open-Source Launcher<br>🤝 I’m looking for help with Animation, UI/UX<br>🌱 I’m currently learning Godot's GDScript Language<br>💬 Ask me about XLaunch's Progress!<br>🎮 My Hobby is Video Game Development!
+🔭 I’m currently working on **XLaunch**, My Open-Source Launcher<br>🤝 I’m looking for help with Animation, UI/UX<br>🌱 I’m currently learning Godot's **GDScript** Language<br>💬 Ask me about **XLaunch's** Progress!<br>🎮 My Hobby is **Video Game Development**!
 
 
 # 💻 Tech Stack:
@@ -20,5 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NexilFromNullFrame&icon=4&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
